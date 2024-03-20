@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse_stack", "reverse_stack\reverse_stack.vcxproj", "{88539CB4-0F48-450F-879A-7D5FD54FBF31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Debug|x64.ActiveCfg = Debug|x64
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Debug|x64.Build.0 = Debug|x64
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Debug|x86.ActiveCfg = Debug|Win32
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Debug|x86.Build.0 = Debug|Win32
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Release|x64.ActiveCfg = Release|x64
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Release|x64.Build.0 = Release|x64
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Release|x86.ActiveCfg = Release|Win32
+		{88539CB4-0F48-450F-879A-7D5FD54FBF31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4763C5E7-E69C-4F91-9DD3-ADCE32D278CB}
+	EndGlobalSection
+EndGlobal
